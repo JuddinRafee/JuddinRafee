@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aizuddin Rafee
 - 👀 I’m interested in the world of data
-- 🌱 I’m currently learning RL
 - 📫 How to reach me: aizuddinrafee@gmail.com
 
 <!---
